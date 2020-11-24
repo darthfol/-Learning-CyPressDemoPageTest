@@ -1,0 +1,12 @@
+{
+    "Email": "test@test.test",
+    "Password": "ThisIsHardPassword",
+    "FirstName": "John",
+    "LastName": "Johnson",
+    "Gender":"M",
+    "DateOfBirth":"1/13/1980",
+    "Company": "Evil Inc.",
+    "IsTaxExempt": true,
+    "newsletterOption": ["Test store 2"]
+
+}
