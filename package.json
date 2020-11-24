@@ -1,0 +1,29 @@
+{
+  "name": "-learning-cypressdemopagetest",
+  "version": "1.0.0",
+  "description": "Learning project. More in Readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darthfol/-Learning-CyPressDemoPageTest.git"
+  },
+  "keywords": [
+    "CyPress",
+    "Automation",
+    "WebTesting",
+    "Novice",
+    "level"
+  ],
+  "author": "Piotr Foltyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darthfol/-Learning-CyPressDemoPageTest/issues"
+  },
+  "homepage": "https://github.com/darthfol/-Learning-CyPressDemoPageTest#readme",
+  "devDependencies": {
+    "cypress": "^6.0.0"
+  }
+}
