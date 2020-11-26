@@ -1,12 +1,8 @@
 /// <reference types='cypress' />
 
-const { defaults } = require("cypress/types/lodash");
-
 class SideDashBord {
 
-
-
-    OpenCustomerSubMenu(option) {
+    openCustomerSubMenu(option) {
         cy.get('.treeview:nth-child(4)').click();
         cy.get('.menu-open>ul>li').each(($element, index, $list) => {
             if ($element.text().includes(option)) {
